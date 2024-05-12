@@ -1,0 +1,23 @@
+@import 'assets/styles/fonts.scss';
+@import 'assets/styles/variables.scss';
+
+html {
+  font-family: 'Fixel Display', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  box-sizing: border-box;
+  background-color: #232323;
+  color: white;
+  padding-bottom: 7rem;
+}
+
+img {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 1rem 0;
+}
